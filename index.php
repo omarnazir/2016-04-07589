@@ -102,7 +102,7 @@
 </div>
  
 <!-- Standard button -->
-<button type="button" class="btn btn-default"><a href="index.php">cart</a></button></button>
+<button type="button" class="btn btn-default"><a href="cart.php">cart</a></button></button>
 
 <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
 <button type="button" class="btn btn-info"><a href="livesctok.php">livestock</a></button>

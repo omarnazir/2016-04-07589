@@ -56,12 +56,12 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="homee.php">Home</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
          
       </ul>
       <ul class="nav navbar-nav navbar-right">
        
-        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span><a href="index.php">Cart</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span><a href="cart.php">Cart</a></li>
       </ul>
     </div>
   </div>

@@ -23,7 +23,7 @@
     <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-    <li><a href="homee.php">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li><a href="boresha2.php">Online Markerting</a></li>
     <li><a href="brokers.php">Contact</a></li>
     <li role="separator" class="divider"></li>

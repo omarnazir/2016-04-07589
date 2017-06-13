@@ -13,43 +13,41 @@
 	 <style>
 	
 
+    
+
 
 	 body{
 		 background-image: url('images/hodoo.jpg');	
-       
+			margin: 0;
+			padding: 0;
+			auto:0;
 	 }
-	 div.scroll {
-    background-color: #00FFFF;
-    width: 700px;
-    height: 200px;
-    overflow: scroll;
-}
- 
+	  
 
 	 </style>
 </head>
-<body>
-<div style="padding-center: 700px">
+<body >
+<div style="padding-left: 400px">
 <div class="dropdown" >
-  <button class="btn btn-default dropdown-toggle"style="width: 700px;;"type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" Style="align:center">
+  <button class="btn btn-default dropdown-toggle"style="width: 600px;"type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     KILIMO ONLINE
     <span class="caret"></span>
   </button>
-  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" style="a>
-    <li><a href="home.php">Home</a></li>
-    <li><a href="boresha2.php">Online Store</a></li>
-	<li><a href="index.php">Cart</li>
-    <li><a href="Contact.php">Contact</a></li>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Online Markerting</a></li>
+    <li><a href="brokers.php">Contact</a></li>
     <li role="separator" class="divider"></li>
-    <li><a href="http://walete.blogspot.com/">Blog</a></li>
-	 <li><a href="home.php">About us</a></li>
+    <li><a href="#">About us</a></li>
+	<li><a href="home.php">HOME</a></li>
   </ul>
 </div>
 </div>
+<div style="padding-left: 400px">
+<img src="images/crop.jpg" class="img-rounded" width="600px" height="100px">
 
-
-<div style="padding-center: 700px">
-<div id="carousel-example-generic" style="width: 700px;"class="carousel slide" data-ride="carousel">
+ 
+<div id="carousel-example-generic" "class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -57,29 +55,32 @@
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
   </ol>
 
+
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/fruit.jpg" alt="..." style="width: 700px"width= height="25%">
+    <img src="images/fruit.jpg" style="width: 600px" width= height="25%">
+	   
       <div class="carousel-caption">
         ...
       </div>
     </div>
+ 
     <div class="item">
-      <img src="images/flower11.jpg" alt="..." width="700px" height="25%">
+      <img src="images/flower11.jpg" alt="..." width="600px" height="25%">
       <div class="carousel-caption">
         ...
       </div>
 	   </div>
     <div class="item">
-      <img src="images/front8.jpg" alt="..." width="700px" height="25%">
+      <img src="images/front8.jpg" alt="..." width="600px" height="25%">
 	  
       <div class="carousel-caption">
         ...
       </div>
     </div>
 	<div class="item">
-      <img src="images/flower8.jpg" alt="..." width="700px" height="25%">
+      <img src="images/flower8.jpg" alt="..." width="600px" height="25%">
 	  
       <div class="carousel-caption">
         ...
@@ -96,9 +97,9 @@
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+
+ </div>
 </div>
-</div>
- 
  
 <!-- Standard button -->
 <button type="button" class="btn btn-default"><a href="index.php">cart</a></button></button>
@@ -120,10 +121,6 @@
 <button type="button" class="btn btn-default"><a href="gation.php">Irrigation</a></button> 
 <button type="button" class="btn btn-default"><a href="pets.php">Control pets</a></button> 
  
-
- 
-<div class="scroll"><p>Agriculture online simplify advertisement of crops and everything about agriculture there for every where farmers they are and they want to sell or advertise their product will be free</p>.</div>
-
  
 </body>
 </html>

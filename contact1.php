@@ -23,8 +23,8 @@
     <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-    <li><a href="home.php">Home</a></li>
-    <li><a href="#">Online Store</a></li>
+    <li><a href="homee.php">Home</a></li>
+    <li><a href="boresha2.php">Online Markerting</a></li>
     <li><a href="brokers.php">Contact</a></li>
     <li role="separator" class="divider"></li>
     <li><a href="#">About us</a></li>
@@ -54,9 +54,9 @@
     </thead>
     <tbody>
       <tr>
+        <td style="color:yellow">omar</td>
         <td style="color:yellow">Nazir</td>
-        <td style="color:yellow">Omar</td>
-        <td style="color:yellow">nazir@gmail.com</td>
+        <td style="color:yellow">omarNazir@gmail.com</td>
 		 <td style="color:yellow">0657 585790</td>
       </tr>
       <tr>
@@ -66,9 +66,9 @@
 		<td style="color:yellow">0657 585799</td>
       </tr>
       <tr>
-        <td style="color:yellow">Abraham</td>
+        <td style="color:yellow">ikram</td>
         <td style="color:yellow">Nazir</td>
-        <td style="color:yellow">Medy12@hotmail.com</td>
+        <td style="color:yellow">ikra33@hotmail.com</td>
 		<td style="color:yellow">0657 585798</td>
       </tr>
     </tbody>

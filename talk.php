@@ -2,7 +2,7 @@
 <head>
  <style>
 	 body{
-		 background-image: url('images/hodoo.jpg');
+		 background-image: url('images/flower8.jpg');
 	 }
 	 </style>
 
@@ -18,7 +18,7 @@
 <body >
 <div style="padding-left: 400px">
 <div class="dropdown" >
-  <button class="btn btn-default dropdown-toggle"style="width: 50%;"type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+  <button class="btn btn-default dropdown-toggle"style="width: 800px;"type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     KILIMO ONLINE
     <span class="caret"></span>
   </button>
@@ -33,10 +33,10 @@
 </div>
 </div>
 <div style="padding-left: 400px">
-<img src="images/crop.jpg" class="img-rounded" width="50%" height="10%">
-<p>lets start our business</p>
+<img src="images/crop.jpg" class="img-rounded" width="800px" height="100px">
+<p style="">PAYMENTS INFORMATION</p>
 </div>
-<div style="padding-left: 400px">
+<div style="padding-left: 400px" align="center">
 <form >
   <div class="form-group" style="width: 50%">
     <label for="exampleInputEmail1" style="width: 100%">Email address</label>
@@ -44,15 +44,15 @@
   </div>
   <div class="form-group" style="width: 50%">
     <label for="exampleInputPassword1" >name</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="tell us your name">
   </div>
   <div class="form-group" style="width: 50%">
     <label for="exampleInputPassword1" >buy/sell</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="buy/sell">
   </div>
   <div class="form-group" style="width: 50%">
     <label for="exampleInputPassword1" >mobile number</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <input type="Number" class="form-control" id="exampleInputPassword1" placeholder="mobile">
   </div>
   <div class="form-group">
      
@@ -60,6 +60,25 @@
 </form>
 </div>
 
+
+<!-- Standard button -->
+<button type="button" class="btn btn-default"><a href="index.php">mbolea</a></button></button>
+
+<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+<button type="button" class="btn btn-danger"><a href="galley4.php">livestock</a></button>
+
+<!-- Indicates a successful or positive action -->
+<button type="button" class="btn btn-success"><a href="galley3.php">Vegetables</a></button>
+
+<!-- Contextual button for informational alert messages -->
+<button type="button" class="btn btn-info"><a href="galley2.php">Fruits & Nuts</a></button>
+
+ 
+<!-- Indicates a dangerous or potentially negative action -->
+<button type="button" class="btn btn-danger"><a href="Contact.php">contact</a></button>
+
+<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+<button type="button" class="btn btn-danger"><a href="pets.php">Control pets</a></button>
  
  
 </body> 

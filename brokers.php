@@ -95,7 +95,7 @@ th {
   <div class="dropdown-content">
     <a href="real.html" >About US</a>
     <a href="reg.html">Contact </a>
-    <a href="homee.html">HOME</a>
+    <a href="index.php">HOME</a>
   </div>
 </div>
 
